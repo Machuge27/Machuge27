@@ -7,7 +7,8 @@
  - 🌱 I’m currently learning AI and ML, and djando python framework. 
   <br>
 
- - 📫 You can reach me through this link [My Portfolio](https://machuge27.github.io/SWEngineering/ "Portfolio"). 
+ - 📫 You can reach me through this link [My Portfolio](https://profile-gamma-seven-35.vercel.app/). 
+ <!-- - 📫 You can reach me through this link [My Portfolio](https://machuge27.github.io/SWEngineering/ "Portfolio"). -->
   <br>
 
 </h3>
