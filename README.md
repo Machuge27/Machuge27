@@ -2,9 +2,6 @@
 <h3 align="left">
 
 - 👋 Hi, I’m @Machuge27 but you can call me Kiprotich Hillary Arap Mutai <br>
-
-- 👀 I’m interested in Web server side and database design and development, ML & AI is getting in to me for sure!! <br>
- - 🌱 I’m currently learning AI and ML, and djando python framework. 
   <br>
 
  - 📫 You can reach me through this link [My Portfolio](https://profile-gamma-seven-35.vercel.app/). 
