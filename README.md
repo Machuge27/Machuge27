@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hillary</h1>
 
 <p align="center">
-Software Engineer | Full-Stack Developer | AI & Systems Automation Expert
+Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Automation Expert
 </p>
 
 ---
