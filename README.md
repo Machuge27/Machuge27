@@ -9,7 +9,7 @@ Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Aut
 ### 👨‍💻 About Me
 - GitHub: **@Machuge27**
 - Full name: **Kiprotich Hillary Arap Mutai**
-- Passionate about building scalable web applications, intelligent systems, and clean developer experiences.
+- Passionate about building scalable web and mobile applications, intelligent systems, clean developer experiences and a quick learner.
 
 📫 **Portfolio:**  
 👉 https://profile-gamma-seven-35.vercel.app/
