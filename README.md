@@ -49,15 +49,4 @@ Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Aut
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machuge27&layout=compact" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=machuge27&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machuge27" />
-</p>
