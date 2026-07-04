@@ -16,12 +16,7 @@ Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Aut
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hillary-mutai-5107872bb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-</p>
+[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
 
 ---
 
