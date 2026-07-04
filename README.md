@@ -16,7 +16,7 @@ Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Aut
 
 ---
 
-[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)
+[![GitFut](https://gitfut.com/Machuge27.png)](https://gitfut.com/Machuge27)
 
 ---
 
