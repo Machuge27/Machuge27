@@ -15,11 +15,6 @@ Computer Scientist | Software Engineer | Full-Stack Developer | AI & Systems Aut
 👉 https://profile-gamma-seven-35.vercel.app/
 
 ---
-<div style="width: 300px; height: 400px; display: flex; justify-content: center; align-items: center; overflow: hidden; box-sizing: border-box;">
-  [![GitFut](https://gitfut.com/Machuge27.png)](https://gitfut.com/Machuge27)
-</div>
-
----
 
 ### 🛠️ Languages & Tools
 <p align="left">
